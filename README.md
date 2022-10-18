@@ -33,7 +33,7 @@
 
 ## My Github Stats: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrian98&theme=tokyonight&exclude_repo=Formula1DataExploration
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrian98&layout=compact&theme=tokyonight&exclude_repo=Formula1DataExploration,OlimpicMedals
 )
 
 
