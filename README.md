@@ -29,12 +29,22 @@
 
 
 
+</p>
+
+<!-- Details Section-->
+<details align="center">
+    <summary> <samp>&#9776; Read More</samp></summary>
+    <p align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrian98&layout=compact&theme=tokyonight&exclude_repo=Formula1DataExploration,OlimpicMedals)
 
 
-## My Github Stats: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrian98&layout=compact&theme=tokyonight&exclude_repo=Formula1DataExploration,OlimpicMedals
-)
+   </p>
+</details>
+<br>
+
+
 
 
 <!--
