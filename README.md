@@ -25,7 +25,7 @@
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>  
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> </p>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 
 
 
@@ -36,7 +36,7 @@
     <summary> <samp>&#9776; Read More</samp></summary>
     <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrian98&layout=compact&theme=tokyonight&exclude_repo=Formula1DataExploration,OlimpicMedals)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrian98&hide=jupyter%20notebook,html&layout=compact&theme=tokyonight&)
 
 
 
