@@ -33,7 +33,7 @@
 
 <!-- Details Section-->
 <details align="center">
-    <summary> <samp>&#9776; Read More</samp></summary>
+    <summary> <samp>&#9776; Stats</samp></summary>
     <p align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrian98&hide=jupyter%20notebook,html&layout=compact&theme=tokyonight&)
