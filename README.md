@@ -27,7 +27,7 @@
 
 
 
-<details>  
+<details open>  
 <summary><b>🔧&nbsp;&nbsp;Technologies & Tools</b></summary> 
   
 📋 **Languages**  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -64,6 +64,30 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 </details>
+<details>
+<summary><b>📈&nbsp;&nbsp;Github stats</b></summary>
+
+<br/> 
+
+<div align="center">
+<a align=top href="https://github.com/madrian98">
+    <img align=top src="https://github-stats-alpha.vercel.app/api?username=madrian98&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
+</a>
+<br/> 
+<div align="center">
+<a align=top href="https://github.com/madrian98">
+    <img align=top src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madrian98&theme=github_dark" height="192px">
+</a>  
+ <br>
+<a align=top href="https://github.com/madrian98">
+    <img align=top alt="madrian98's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madrian98&theme=github_dark&&exclude=Jupyter%20Notebook,html" height="192px"/></a>  
+<a align=top href="https://github.com/madrian98">
+    <img align=top alt="madrian98's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madrian98&theme=github_dark&&exclude=Jupyter%20Notebook,html" height="192px"/></a>
+</br>  
+</div>  
+
+</details> 
+
 
 
 
