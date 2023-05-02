@@ -1,11 +1,27 @@
 ### Hi there 👋 I'm Mateusz 
 
+## Main projects
 
 
+### Data Science/Data Mining/Machine Learning
 
+<p align="left">
+  <a href="https://github.com/madrian98/WorldHappinessPython"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=madrian98&repo=WorldHappinessPython&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+     <a href="https://github.com/madrian98/WorldHappiness-R"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=madrian98&repo=WorldHappiness-R&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+      <a href="https://github.com/madrian98/Formula1DataExploration"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=madrian98&repo=Formula1DataExploration&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+  <a href="https://github.com/madrian98/Documents_Classification"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=madrian98&repo=Documents_Classification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+</p> 
 
+### Applications
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrian98&hide=jupyter%20notebook,html&layout=compact&theme=tokyonight&)
+<p align="left">
+  <a href="https://github.com/madrian98/DigitalSignalProcessingApp"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=madrian98&repo=DigitalSignalProcessingApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+ <a href="https://github.com/madrian98/15_puzzle_BFS_DFS_A-star"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=madrian98&repo=15_puzzle_BFS_DFS_A-star&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+ 
+     
+
+</p>
+
 
 
 
