@@ -12,7 +12,7 @@
   <a href="https://github.com/madrian98/Documents_Classification"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=madrian98&repo=Documents_Classification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
 </p> 
 
-### Applications
+## Applications
 
 <p align="left">
   <a href="https://github.com/madrian98/DigitalSignalProcessingApp"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=madrian98&repo=DigitalSignalProcessingApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
