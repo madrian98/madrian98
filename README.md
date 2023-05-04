@@ -68,11 +68,11 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
   
-💾 **Big Data**
+💾 **Big Data**  
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=ApacheHadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/ApacheHive-FDEE21.svg?style=for-the-badge&logo=ApacheHive&logoColor=black)    
+![Hive](https://img.shields.io/badge/Hive-FDEE21.svg?style=for-the-badge&logo=ApacheHive&logoColor=black)    
   
-🕓 **Version Control**
+🕓 **Version Control**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)    
 
