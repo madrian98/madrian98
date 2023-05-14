@@ -24,7 +24,6 @@
 
 
 
-
  
 <summary><b>🔧&nbsp;&nbsp;Technologies & Tools</b></summary>
 <br/>   
