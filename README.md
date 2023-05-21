@@ -97,7 +97,4 @@
 
 
 
-
 ![Snake animation](https://github.com/madrian98/madrian98/blob/output/github-contribution-grid-snake.svg)
-
-
