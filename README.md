@@ -38,7 +38,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-F80000?style=for-the-badge&logo=SQLAlchemy&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-FDEE21.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 
 
 💾 **Databases**  
