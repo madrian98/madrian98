@@ -41,15 +41,20 @@
 
 💾 **Databases**  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-<!---![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)--->
-  
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
+☁️ **Cloud** 
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=orange)
+![BigQuery](https://img.shields.io/badge/BigQuery-%230A0FFF.svg?style=for-the-badge&logo=GoogleBigQuery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
+
 💾 **Big Data**  
 ![Hadoop](https://img.shields.io/badge/Hadoop-05122A?style=for-the-badge&logo=ApacheHadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21.svg?style=for-the-badge&logo=ApacheHive&logoColor=black)    
-  
+![Hive](https://img.shields.io/badge/Hive-FDEE21.svg?style=for-the-badge&logo=ApacheHive&logoColor=black) 
+
+ 
 ⚙️ **Tools**  
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
