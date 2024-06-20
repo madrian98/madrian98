@@ -101,15 +101,3 @@
 </div>  
 
 
-</details> 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/madrian98/madrian98/preview/github-contribution-grid-snake-dark.svg?palette=github-dark"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/madrian98/madrian98/preview/github-contribution-grid-snake.svg"
-  />
-</picture>
