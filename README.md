@@ -1,5 +1,3 @@
-### Hi there 👋 I'm Mateusz 
-
 ## Main projects
 
 
