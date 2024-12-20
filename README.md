@@ -11,8 +11,8 @@
 </p> 
 
 
-
-
+</details>
+<details>
 <summary><b>📈&nbsp;&nbsp;Github stats</b></summary>
 
 <br/> 
